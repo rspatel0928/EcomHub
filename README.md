@@ -40,3 +40,20 @@ Product catalog management
 Stock quantity tracking
 Search and filter capabilities
 
+
+# System Architecture
+
+## Technology Stack
+- **Backend**: Spring Boot 3.1, Java 17
+- **Gateway**: Spring Cloud Gateway
+- **Security**: JWT Authentication
+- **Database**: H2 (Development), MySQL (Production ready)
+- **Build Tool**: Maven
+
+## Design Patterns Used
+- Microservices Architecture
+- API Gateway Pattern
+- JWT Authentication
+- RESTful APIs
+- Separation of Concerns
+
